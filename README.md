@@ -1,6 +1,6 @@
 **Opening Development Environment**
 
-I opened my SimpleStorage.sol contract file from your previous project in Remix IDE as the base for my AdvancedStorage project.
+I opened my SimpleStorage.sol contract file from my previous project in Remix IDE as the base for my AdvancedStorage project.
 
 **Implement Mappings**
 
